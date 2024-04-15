@@ -1,2 +1,2 @@
 # Python_Basics_April_2022
-A course for beginners. It is about getting familiar with the basics of programming in Python language
+The first course, the BASE - getting familiar with the basic part of programming concepts in Python language.
